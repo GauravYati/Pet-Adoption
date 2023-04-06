@@ -1,2 +1,2 @@
 # Pet-Adoption
- A MERN Project.
+ A MERN Project
